@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+## Math
+|  |
+| ------- |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
+## Greedy
+|  |
+| ------- |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 <!---LeetCode Topics End-->
