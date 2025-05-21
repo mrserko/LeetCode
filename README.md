@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/mrserko/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrserko/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrserko/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Design
 |  |
 | ------- |
