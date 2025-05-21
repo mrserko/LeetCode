@@ -36,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
+## Linked List
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/mrserko/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/mrserko/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/mrserko/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/mrserko/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
