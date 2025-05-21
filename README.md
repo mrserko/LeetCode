@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Greedy
 |  |
 | ------- |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/mrserko/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 <!---LeetCode Topics End-->
