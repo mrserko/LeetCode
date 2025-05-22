@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/mrserko/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrserko/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
 | ------- |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/mrserko/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Ordered Set
 |  |
 | ------- |
@@ -83,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
