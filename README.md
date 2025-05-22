@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/mrserko/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/mrserko/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrserko/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/mrserko/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2434-design-a-number-container-system](https://github.com/mrserko/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/mrserko/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Binary Search
 |  |
