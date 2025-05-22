@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1277-largest-multiple-of-three](https://github.com/mrserko/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/mrserko/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/mrserko/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1277-largest-multiple-of-three](https://github.com/mrserko/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/mrserko/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
@@ -39,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1277-largest-multiple-of-three](https://github.com/mrserko/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
 | ------- |
+| [1277-largest-multiple-of-three](https://github.com/mrserko/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/mrserko/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1277-largest-multiple-of-three](https://github.com/mrserko/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2850-construct-the-longest-new-string](https://github.com/mrserko/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Brainteaser
 |  |
