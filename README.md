@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/mrserko/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1277-largest-multiple-of-three](https://github.com/mrserko/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/mrserko/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/mrserko/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/mrserko/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/mrserko/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2434-design-a-number-container-system](https://github.com/mrserko/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -89,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/mrserko/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Counting
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/mrserko/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/mrserko/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Binary Search
