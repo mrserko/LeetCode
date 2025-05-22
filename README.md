@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2434-design-a-number-container-system](https://github.com/mrserko/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrserko/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/mrserko/LeetCode/tree/master/2434-design-a-number-container-system) |
+## String
+|  |
+| ------- |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+## Counting
+|  |
+| ------- |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mrserko/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 <!---LeetCode Topics End-->
