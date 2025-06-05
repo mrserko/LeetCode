@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-largest-multiple-of-three](https://github.com/mrserko/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/mrserko/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/mrserko/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/mrserko/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrserko/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/mrserko/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3516-design-neighbor-sum-service](https://github.com/mrserko/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Math
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrserko/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/mrserko/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
